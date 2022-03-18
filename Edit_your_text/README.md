@@ -1,12 +1,14 @@
 # JATE Text Editor
 
 ![badge](https://img.shields.io/badge/MIT-License-<color>)
-* by Gino Colman
-* Email: gdcolman95@gmail.com
-* GitHub: [ginocorp](https://github.com/ginocorp)
+by Gino Colman
+Email: gdcolman95@gmail.com
+GitHub: [ginocorp](https://github.com/ginocorp)
 
 
 ## Description
+
+[VIEW-CODE](https://github.com/ginocorp/edit_your_text_1.0/tree/master/Edit_your_text)
 
 [CHECK-OUT-THE-APP](https://edit-your-text.herokuapp.com/)
 
